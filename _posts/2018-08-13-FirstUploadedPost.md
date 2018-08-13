@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "First Uploaded Post!"
+title:  "한글 테스트"
 date:   2018-08-13 13:23:00 +0900
 categories: Projects
 ---
 
-First Uploaded Post.
+본문 한글 테스트
 
 {% highlight ruby %}
 printf("Hello World.");
