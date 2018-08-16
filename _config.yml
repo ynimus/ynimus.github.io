@@ -43,3 +43,5 @@ plugins:
 
 future: true
 timezone: Asia/Seoul
+
+url: https://ynimus.github.io
